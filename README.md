@@ -1,7 +1,7 @@
 _Kopieer en plak hier jouw README.md uit sprint 1._
 
 **9 november - [kick-off]**
-1. leg uit wat een source hosting platform is en voor welke jij gekozen hebt. ->
+1. Leg uit wat een source hosting platform is en voor welke jij gekozen hebt. ->
 Een source hosting platform is een online platform waar je code van een website of project kan opslaan.
 
 3. Vertel welke domeinnaam jij gekozen hebt en hoe je die hebt gekoppeld aan jouw pagina. ->
